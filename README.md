@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Jmanbtc/Jmanbtc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Heading level 1 </h1>
 
-
-This is a change that I will write a commit message about 
+<h3>Heading level 3</h3>
